@@ -167,7 +167,7 @@ def callback_worker(call):
 
     if call.data == 'support':
         bot.send_message(call.message.chat.id, 'Тинькофф')
-        bot.send_message(call.message.chat.id, '5536 9139 8069 0685')
+        bot.send_message(call.message.chat.id, '**** **** **** 0685')
 
     if call.data == 'anon':
         user_by_messages[call.message.chat.id].append('anon')
