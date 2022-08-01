@@ -1,0 +1,2 @@
+token = '2093123454:AAES7StJ6ECMQMbNV-VpHJijhyNqdMP7Ab0'
+elite = ['1899761699']
