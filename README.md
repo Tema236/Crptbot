@@ -6,7 +6,7 @@ pip3 install pyTelegramBotAPI
 
 ![IMG_1440](https://user-images.githubusercontent.com/95048421/182159236-6df10261-d769-449d-ae6e-eb17fe511a6e.PNG)
 
-Либо сменить токен на свой в файле config.py
+Либо сменить токен на свой в файле config.py и запустить со своего хоста
 
 # Функционал бота
 -Нахождение НОК для 2х чисел
